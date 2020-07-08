@@ -1,0 +1,25 @@
+body {
+	background-color: rgb(83, 74, 74);
+}
+.container {
+	border-radius: 14px;
+	border-style: ridge;
+}
+
+li {
+	color: wheat;
+}
+.card {
+	border-color: wheat;
+	border-width: 3px;
+}
+h1 {
+	font-size: 60px;
+	font-family: 'Bangers', cursive;
+	text-shadow: 4px 4px rgb(58, 43, 15);
+}
+
+h2 {
+	font-family: 'Bangers', cursive;
+	text-shadow: 4px 4px rgb(58, 43, 15);
+}
